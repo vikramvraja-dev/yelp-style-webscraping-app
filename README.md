@@ -10,6 +10,10 @@ This repository is a cleaned portfolio snapshot. It contains no API keys,
 signing keys, user databases, location history, or original university Git
 history.
 
+## Video Demo
+
+https://youtu.be/5zkUX-BrcLI
+
 ## Implemented features
 
 - Search by city/state or by the map's current coordinates.
