@@ -4,6 +4,8 @@ LocalHub is a Flutter mobile app for discovering nearby restaurants, comparing
 results on a map, and keeping a personal “must try” food journal. It was built
 as a group project for CMSC436 at the University of Maryland.
 
+Group Project with Frazer and Anish
+
 This repository is a cleaned portfolio snapshot. It contains no API keys,
 signing keys, user databases, location history, or original university Git
 history.
@@ -155,15 +157,3 @@ University of Maryland**. The repository is published with the group's
 permission as a portfolio snapshot. Individual ownership should be described
 accurately in the contributors table; no claim is made that one person created
 the entire application.
-
-## Contributors
-
-Replace the placeholders below with each group member's approved public name,
-GitHub profile, and specific contributions before making the repository
-public. Add or remove rows to match the actual team.
-
-| Contributor | GitHub | Contributions |
-| --- | --- | --- |
-| `[Name]` | `[@username](https://github.com/username)` | `[Features, architecture, testing, design, or documentation]` |
-| `[Name]` | `[@username](https://github.com/username)` | `[Features, architecture, testing, design, or documentation]` |
-| `[Name]` | `[@username](https://github.com/username)` | `[Features, architecture, testing, design, or documentation]` |
