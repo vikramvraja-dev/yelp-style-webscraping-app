@@ -13,7 +13,8 @@ history.
 ## Implemented features
 
 - Search by city/state or by the map's current coordinates.
-- Search by cuisine and combine results from multiple restaurant data adapters.
+- Webscraping from multiple restaurant/travel websites.
+- Search by cuisine and combine results
 - Display geocoded restaurant markers on an interactive OpenStreetMap map.
 - Filter the active result set by minimum rating or distance from the map center.
 - Swipe restaurant cards to save or discard suggestions.
