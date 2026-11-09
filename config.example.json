@@ -1,0 +1,5 @@
+{
+  "YELP_API_KEY": "replace-with-your-yelp-api-key",
+  "NOMINATIM_BASE_URL": "https://nominatim.openstreetmap.org",
+  "NOMINATIM_CONTACT_EMAIL": ""
+}
